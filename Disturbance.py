@@ -1,7 +1,7 @@
 import pandapower as pp
 import numpy as np
 import pandas as pd
-from Dynamics1 import impedance_matrix
+from Dynamics import impedance_matrix
 import random
 
 #filename = 'Online Ctrl/case34sa_mod.mat'
